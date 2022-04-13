@@ -1,0 +1,45 @@
+{
+  "name": "make-file",
+  "version": "1.0.0",
+  "description": "An alternative for touch cmd (Linux) for Windows OS.",
+  "main": "index.js",
+  "bin": {
+		"create": "src/index.js",
+		"make": "src/index.js"
+	},
+  "files": ["src/index.js", "lib"],
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csalam07/make-file.git"
+  },
+  "keywords": [
+    "create",
+    "make",
+    "make-file",
+    "create-file",
+    "file",
+    "cli",
+    "touch-file",
+    "touch console",
+    "make-cli",
+    "touch windows",
+    "touch macos",
+    "touch linux",
+    "touch windows mac linux",
+    "csalam",
+    "csalam07"
+  ],
+  "author": {
+    "name": "csalam07",
+    "linkedIn": "linkedin.com/in/shahbajz-alam-b47678193",
+    "twitter": "https://twitter.com/CSALam12"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csalam07/make-file/issues"
+  },
+  "homepage": "https://github.com/csalam07/make-file#readme"
+}
