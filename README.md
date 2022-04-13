@@ -1,26 +1,26 @@
-# make-file
+# touch-for-window
 
 An alternative for touch cmd (Linux) for Windows OS.
 
 ## Installation
 
-    $ npm install -g make-file
+    $ npm install -g touch-for-window
 
 ## Usage
 
 ```
-make [filename]
+create [filename]
 ```
 
 ## Examples
 
 Create a zero-sized new file:
 
-    $ make my_new_file
+    $ create my_new_file
 
 Update the last modified and access timestamps of an existing file:
 
-    $ make my_existing_file
+    $ create my_existing_file
 
     
 ## License

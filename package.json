@@ -1,11 +1,11 @@
 {
-  "name": "make-file",
+  "name": "touch-for-window",
   "version": "1.0.0",
   "description": "An alternative for touch cmd (Linux) for Windows OS.",
   "main": "index.js",
   "bin": {
 		"create": "src/index.js",
-		"make": "src/index.js"
+		"touch": "src/index.js"
 	},
   "files": ["src/index.js", "lib"],
   "scripts": {
